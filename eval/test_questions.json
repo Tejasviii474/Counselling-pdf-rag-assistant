@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "question": "What is the registration process?",
+    "expected_answer_contains": ["online registration", "registration fee", "choice filling"],
+    "expected_page_range": [12, 13],
+    "notes": "Section 5.1 Online Registration, Payment of Registration Fee, Choice Filling and Locking"
+  },
+  {
+    "id": 2,
+    "question": "What happens if a candidate's qualifying degree information is found incorrect?",
+    "expected_answer_contains": ["cancelled", "seat"],
+    "expected_page_range": [8, 17],
+    "notes": "Mentioned in Introduction (p8) and again in detail under document verification, section 5.2.1.5 item (c) (p16-17)"
+  },
+  {
+    "id": 3,
+    "question": "What is the fee for the National Spot Round?",
+    "expected_answer_contains": ["NSR Registration Fee", "NSR Participation Fee", "3,500", "25,000"],
+    "expected_page_range": [7, 7],
+    "notes": "Table 3 (Types of Fees): NSR Registration Fee Rs 3,500/3,000; NSR Participation Fee Rs 25,000/15,000"
+  },
+  {
+    "id": 4,
+    "question": "What is the difference between CCMT and CCMN?",
+    "expected_answer_contains": [],
+    "expected_page_range": [null, null],
+    "notes": "HALLUCINATION GUARD TEST -- 'CCMT' does not appear anywhere in this brochure. Correct answer is 'not found in the brochure', NOT a fabricated comparison. If your system answers this confidently, that's a bug."
+  },
+  {
+    "id": 5,
+    "question": "What are the registration and seat acceptance fees?",
+    "expected_answer_contains": ["3,500", "15,000", "Registration Fee", "Seat Acceptance Fee"],
+    "expected_page_range": [7, 7],
+    "notes": "Table 3: Registration Fee Rs 3,500 (GEN/EWS/OBC) / 3,000 (SC/ST/PwD); SAF Rs 15,000 / 10,000"
+  },
+  {
+    "id": 6,
+    "question": "What documents are required for verification?",
+    "expected_answer_contains": ["date of birth", "mark sheet", "JAM score card", "category certificate"],
+    "expected_page_range": [40, 40],
+    "notes": "Annexure III: List of Documents to be uploaded for Online Document Verification"
+  },
+  {
+    "id": 7,
+    "question": "How many rounds of counseling take place?",
+    "expected_answer_contains": ["three", "regular rounds", "special rounds", "National Spot Round"],
+    "expected_page_range": [8, 27],
+    "notes": "3 regular rounds (section 5.2, p13), 2 special rounds (section 7, p24), 1 National Spot Round (section 9, p27)"
+  },
+  {
+    "id": 8,
+    "question": "Can I apply via the official portal?",
+    "expected_answer_contains": ["ccmn.admissions.nic.in"],
+    "expected_page_range": [1, 8],
+    "notes": "Weak test question -- portal URL appears on cover page and in Introduction, but this doesn't test retrieval precision well. Consider swapping for a sharper question."
+  },
+  {
+    "id": 9,
+    "question": "What is the difference between Float, Slide, and Freeze?",
+    "expected_answer_contains": ["Float", "Slide", "Freeze", "next round"],
+    "expected_page_range": [14, 14],
+    "notes": "Section 5.2.1.3 Online Submission of Willingness -- exact definitions given here"
+  },
+  {
+    "id": 10,
+    "question": "Do I have to pay the Seat Acceptance Fee if I choose Float or Slide?",
+    "expected_answer_contains": ["Seat Acceptance Fee", "allotted"],
+    "expected_page_range": [14, 14],
+    "notes": "SAF must be paid upon seat allotment BEFORE willingness (Float/Slide/Freeze) can even be exercised -- section 5.2.1.2-5.2.1.3. Good nuance-check question."
+  },
+  {
+    "id": 11,
+    "question": "What happens if my OBC-NCL or EWS certificate is dated before April 1?",
+    "expected_answer_contains": ["April 01, 2025", "category will be changed", "cancelled"],
+    "expected_page_range": [40, 40],
+    "notes": "Annexure III note: certificate must be issued on/after April 1, 2025, else category changed by Verifying Officer and seat may be cancelled"
+  },
+  {
+    "id": 12,
+    "question": "My final semester results are not declared yet. Am I eligible?",
+    "expected_answer_contains": ["provisional admission", "September 30, 2025", "August 15, 2025"],
+    "expected_page_range": [9, 9],
+    "notes": "Section 2 Eligibility Requirements -- provisional admission permitted subject to conditions"
+  },
+  {
+    "id": 13,
+    "question": "What happens if my document verification fails?",
+    "expected_answer_contains": ["Not-Reported", "cancelled", "subsequent rounds"],
+    "expected_page_range": [15, 17],
+    "notes": "Section 5.2.1.5 Online Document Verification"
+  },
+  {
+    "id": 14,
+    "question": "Can I change my choice locking order after submitting?",
+    "expected_answer_contains": ["not be able to", "add", "delete", "reorder"],
+    "expected_page_range": [12, 13],
+    "notes": "Section 5.1.2 -- cannot add/delete/reorder choices after choice filling deadline"
+  },
+  {
+    "id": 15,
+    "question": "Can I get a refund if I withdraw from the counselling?",
+    "expected_answer_contains": ["refund", "processing fee", "2000"],
+    "expected_page_range": [30, 31],
+    "notes": "Section 12.2 Rules for Refund of Seat Acceptance Fee and/or PAF -- refund after deducting Rs 2000 processing fee, only if not participating in Special Rounds/NSR"
+  }
+]
+

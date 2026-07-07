@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "question": "What is the registration process?",
+    "answer": "Based on the provided brochure, the online registration process includes the following steps:\n\n1. **Online Registration**: Eligible candidates register on the CCMN portal during the specified period by providing their JAM credentials, qualifying degrees, personal details, academic credentials, and bank details, and accepting the terms and conditions (Source: page 12).\n2. **Payment of Fee**: Upon registering, candidates must pay the non-refundable registration fee using UPI, Debit Card, Credit Card, or Net Banking (Source: page 12).\n3. **Choice Filling and Locking**: After payment, candidates fill and lock their choices of programmes and participating institutes in order of preference within the stipulated time (Source: page 12).\n\n*Note*: For **Special Rounds (SR)** and the **National Spot Round (NSR)**, candidates must complete a fresh online registration, fill/lock choices, and pay the respective Registration Fee along with an SR/NSR Participation Fee (Source: pages 24, 28).",
+    "retrieved_pages": [
+      "[14]",
+      "[30]",
+      "[26]",
+      "[10]",
+      "[45]",
+      "[27]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 2,
+    "question": "What happens if a candidate's qualifying degree information is found incorrect?",
+    "answer": "Based on the brochure, the outcome depends on which specific detail of the qualifying degree is incorrect or mismatched:\n\n* **Degree differs from undergraduate degree:** If the submitted qualifying degree information is different from the actual undergraduate degree, the allotment will be cancelled (Source: page 10).\n* **Degree/Discipline mismatch:** The allotted seat is liable to be cancelled. The degree/discipline name will be updated in the system, and the candidate will be considered in subsequent rounds only for choices they are eligible for under the updated degree (Source: pages 18, 19).\n* **Marks/CGPA mismatch:** The details will be updated by the Document Verifying Officer. If the candidate fails to meet the minimum eligibility criteria after the update, the allotted seat will be cancelled, and the candidate will not be considered for subsequent rounds (Source: page 19).\n* **Passing status mismatch:** The status will be updated if it changes from \"Appearing\" to \"Passed\" (updating from \"Passed\" to \"Appearing\" is not allowed). Eligibility will then be re-checked (Source: page 19).\n* **Passing year mismatch:** It will be updated in the system (Source: page 19).",
+    "retrieved_pages": [
+      "[19]",
+      "[18]",
+      "[11]",
+      "[44]",
+      "[10]",
+      "[19]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 3,
+    "question": "What is the fee for the National Spot Round?",
+    "answer": "The fees for the National Spot Round (NSR) are as follows:\n\n* **NSR Registration Fee (Non-refundable):** \n  * \u20b9 3,500/- for GEN / GEN-EWS / OBC\n  * \u20b9 3,000/- for SC / ST / PwD\n\n* **NSR Participation Fee:** \n  * \u20b9 25,000/- for GEN / GEN-EWS / OBC\n  * \u20b9 15,000/- for SC / ST / PwD\n\n*(Note: If a candidate has already paid fees in previous rounds, those will be adjusted towards the NSR participation fee accordingly.)*\n\n(Source: page 9)",
+    "retrieved_pages": [
+      "[32]",
+      "[33]",
+      "[9]",
+      "[34]",
+      "[45]",
+      "[31]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 4,
+    "question": "What is the difference between CCMT and CCMN?",
+    "answer": "I couldn't find this in the brochure \u2014 please check the official notification directly.",
+    "retrieved_pages": [
+      "[31]",
+      "[1, 2]",
+      "[6, 7]",
+      "[31]",
+      "[10]",
+      "[18]"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What are the registration and seat acceptance fees?",
+    "answer": "Based on the brochure, the fees are as follows:\n\n* **Registration Fee (Regular Rounds 1, 2, and 3):**\n  * **GEN / GEN-EWS / OBC:** \u20b9 3,500/-\n  * **SC / ST / PwD:** \u20b9 3,000/-\n  *(Note: Special Round and National Spot Round registration fees are also \u20b9 3,500/- for GEN/GEN-EWS/OBC and \u20b9 3,000/- for SC/ST/PwD).*\n\n* **Seat Acceptance Fee (SAF):**\n  * **GEN / GEN-EWS / OBC:** \u20b9 15,000/-\n  * **SC / ST / PwD:** \u20b9 10,000/-\n\n(Source: page 9)",
+    "retrieved_pages": [
+      "[16]",
+      "[24]",
+      "[9]",
+      "[22]",
+      "[14]",
+      "[19]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 6,
+    "question": "What documents are required for verification?",
+    "answer": "Based on the brochure context, document verification occurs both online and during physical reporting at the institute. \n\n### 1. Documents Required for Online Document Verification (Annexure-III)\nCandidates must upload scanned color copies of:\n* **Proof of Date of Birth:** Class X marksheet/certificate (or Class X marksheet plus a Govt-issued document showing DOB).\n* **Photo ID Proof:** As per Govt. of India norms.\n* **Class XII Marksheet / Equivalence Certificate.**\n* **Qualifying Examination Marksheets:** For all semesters.\n* **Degree / Provisional Certificate:** (Or a course completion certificate/undertaking if results are awaited).\n* **JAM 2025 Score Card.**\n* **Category Certificate:** (SC/ST/OBC-NCL/EWS), if applicable.\n* **OBC-NCL Declaration:** If applicable.\n* **PwD Certificate and Affidavit:** PwD candidates must upload their PwD certificate and a scanned copy of an Affidavit formatted as per Annexure-VI. \n\n*(Source: pages 17, 40)*\n\n---\n\n### 2. Documents Required for Physical Reporting / Final Verification (Annexure-IV)\nCandidates must produce the following original documents and a set of self-attested photocopies at the institute:\n1. All original documents uploaded for online verification.\n2. Proof of fee payment (SAF / PAF / SR Participation Fee / NSR Participation Fee).\n3. Original Migration Certificate.\n4. Original Conduct Certificate.\n5. Original Transfer Certificate.\n6. Signed print copy of the Registration form and locked choices.\n7. Signed Provisional Seat Allotment Letter (PSAL).\n8. Signed Online Document Verification Certificate (ODVC).\n9. One set of self-attested photocopies of the uploaded original documents and fee payment proof.\n10. Three recent passport-size color photographs.\n\n*(Source: page 43)*\n\n---\n\n### Additional Note on Translation\nIf any original certificates are not in **English or Hindi**, an English/Hindi translation certified by a Principal/Director or other competent authority must be provided alongside the original certificate. \n\n*(Source: pages 17, 31, 40, 43)*",
+    "retrieved_pages": [
+      "[17]",
+      "[24]",
+      "[43]",
+      "[31]",
+      "[36, 37, 38, 39, 40, 41, 42]",
+      "[27]"
+    ],
+    "contains_check_passed": false
+  },
+  {
+    "id": 7,
+    "question": "How many rounds of counseling take place?",
+    "answer": "Based on the brochure, the counselling process includes the following rounds:\n\n* **Three Regular Rounds** of Counselling (Source: page 13)\n* **Two Special Rounds (SR)** conducted for vacant seats remaining after regular rounds (Source: page 24)\n* **National Spot Round (NSR)**, which is the final mop-up round (Source: page 3)",
+    "retrieved_pages": [
+      "[5]",
+      "[15]",
+      "[27]",
+      "[20]",
+      "[26]",
+      "[46, 47]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 8,
+    "question": "Can I apply via the official portal?",
+    "answer": "Yes, you can apply via the official CCMN website (https://ccmn.admissions.nic.in). Eligible candidates must participate in the counselling process by filling out a single online application form and registering through the online portal during the specified period. \n\n(Source: page 5, page 12, page 42)",
+    "retrieved_pages": [
+      "[46, 47]",
+      "[44]",
+      "[14]",
+      "[6, 7]",
+      "[16]",
+      "[22]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 9,
+    "question": "What is the difference between Float, Slide, and Freeze?",
+    "answer": "Based on the brochure, the differences between the willingness options are as follows:\n\n* **Float:** Choose this if you wish to be considered in the next round for all of your better-preferred choices across all institutes. If no higher choice is allotted based on merit, your previously allotted seat is retained. (Source: page 14, page 21)\n* **Slide:** Choose this if you wish to be considered in the next round for better-preferred choices *only* within the institute already allotted to you. If no higher choice is allotted based on merit, your previously allotted seat is retained. (Source: page 14, page 21)\n* **Freeze:** Choose this if you are satisfied with your currently allotted seat and do not want to be considered for any better-preferred choices in subsequent rounds. There will be no change in seat allotment, though you will still be processed for category upgradation. (Source: page 14, page 21)",
+    "retrieved_pages": [
+      "[21]",
+      "[21]",
+      "[31]",
+      "[23]",
+      "[16]",
+      "[13]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 10,
+    "question": "Do I have to pay the Seat Acceptance Fee if I choose Float or Slide?",
+    "answer": "Yes. When a seat is allotted, you must pay the Seat Acceptance Fee first. Only after paying the Seat Acceptance Fee will you be able to submit your willingness (Float, Slide, or Freeze) online (Source: page 16). \n\nHowever, if you have already paid the Seat Acceptance Fee in any of the previous rounds, you are not required to pay it again (Source: page 23).",
+    "retrieved_pages": [
+      "[23]",
+      "[45]",
+      "[16]",
+      "[44]",
+      "[21]",
+      "[48, 49]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 11,
+    "question": "What happens if my OBC-NCL or EWS certificate is dated before April 1?",
+    "answer": "If your OBC-NCL or EWS certificate is not issued on or after April 1, 2025 (i.e., dated before April 1):\n\n* Your category will be changed on the portal by the Verifying Officer.\n* Your seat may be cancelled.\n\n(Source: page 40)",
+    "retrieved_pages": [
+      "[36, 37, 38, 39, 40, 41, 42]",
+      "[44]",
+      "[45]",
+      "[18]",
+      "[46, 47]",
+      "[19]"
+    ],
+    "contains_check_passed": false
+  },
+  {
+    "id": 12,
+    "question": "My final semester results are not declared yet. Am I eligible?",
+    "answer": "Yes, candidates with a qualifying degree status of \"Appearing\" are eligible, provided they upload a course completion certificate (duly signed by the head of the institution) or a relevant undertaking in the format available on the CCMN website. If this document/undertaking is not uploaded, the allotted seat will be cancelled. (Source: page 19)",
+    "retrieved_pages": [
+      "[44]",
+      "[46, 47]",
+      "[43]",
+      "[45]",
+      "[19]",
+      "[1, 2]"
+    ],
+    "contains_check_passed": false
+  },
+  {
+    "id": 13,
+    "question": "What happens if my document verification fails?",
+    "answer": "If your online document verification fails, the specific outcome depends on the reason:\n\n* **Failing to respond to queries:** If you do not respond to a Document Verifying Officer's query within the stipulated time, you will be treated as \"Not-Reported.\" Your seat will be cancelled, and you will not be considered for seat allotment in subsequent regular rounds (though you may participate in Special Rounds if eligible) (Source: page 17).\n* **False personal data:** If the personal data submitted during registration is found to be false, your seat allotment is liable to be cancelled (Source: page 17).\n* **Invalid Category or PwD Certificate:** If you fail to produce a valid category/PwD certificate, your allotment will be cancelled if it was based on that claimed category. If you remain eligible after updating your category, you may still participate/be considered after changing your category (Source: page 17, page 48).\n* **Not fulfilling Special Eligibility Conditions:** If it is found during verification that you do not fulfill the special eligibility conditions for an allotted program, your allotment will be cancelled (Source: page 17, page 24).\n* **PwD Disability Percentage Below Required Level:** If the Medical Board during final physical reporting finds that your percentage of disability is below the required level, your seat will be cancelled (Source: page 46).\n\n**General Outcome:** \nIn the case of seat cancellation, your Document Verification status (ODVC) will be updated to either *\"Seat cancelled and eligible for subsequent rounds\"* or *\"Seat cancelled and not eligible for subsequent rounds\"*. You lose any claim on the cancelled seat, and any applicable refund will be processed according to the refund rules (Source: page 20).",
+    "retrieved_pages": [
+      "[46, 47]",
+      "[17]",
+      "[20]",
+      "[48, 49]",
+      "[44]",
+      "[24]"
+    ],
+    "contains_check_passed": true
+  },
+  {
+    "id": 14,
+    "question": "Can I change my choice locking order after submitting?",
+    "answer": "No. You cannot modify your choice list or add/delete/reorder your choices once it is locked or after the due date and time for choice filling has passed. \n\n(Source: page 15, page 44, page 45)",
+    "retrieved_pages": [
+      "[44]",
+      "[15]",
+      "[48, 49]",
+      "[21]",
+      "[23]",
+      "[45]"
+    ],
+    "contains_check_passed": false
+  },
+  {
+    "id": 15,
+    "question": "Can I get a refund if I withdraw from the counselling?",
+    "answer": "Based on the provided brochure context:\n\n* **Registration Fee:** The registration fee paid for Regular Rounds, Special Rounds, or National Spot Rounds is strictly **non-refundable** and non-adjustable (Source: page 30).\n* **Seat Acceptance Fee (SAF) / Participation Fee:** Any applicable refund of the Seat Acceptance Fee or Participation Fee will be initiated **after the completion of the entire counselling process** (Source: page 30). \n* **Withdrawal Effect:** If you withdraw from your allotted seat online during the specified schedule, you forfeit all claims to that seat (Source: page 20).",
+    "retrieved_pages": [
+      "[46, 47]",
+      "[22]",
+      "[1, 2]",
+      "[32]",
+      "[48, 49]",
+      "[45]"
+    ],
+    "contains_check_passed": false
+  }
+]
