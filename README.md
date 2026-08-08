@@ -169,13 +169,3 @@ every single run across all retrieval configurations tested.
 - Revisit chunk boundaries for dense tables/numeric sections to address the two
   known retrieval misses above.
 - Add conversational memory for follow-up questions within the same chat session.
-
-## Resume line
-
-> Built a RAG-based counselling assistant that parses and answers questions over
-> official exam admission brochures, using layout-aware PDF extraction, hybrid
-> BM25+dense retrieval, and a grounded-generation prompt with page-level citations
-> and an explicit hallucination guard. Built a 15-question evaluation set against
-> real source documents, diagnosed 3 specific retrieval failures, and measured the
-> impact of two retrieval improvements (hybrid search, increased retrieval depth)
-> against that set.
